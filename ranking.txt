@@ -1,0 +1,17 @@
+Viruss:2800
+Ngoc Kem:2700
+Phao:2600
+Misthy:2600
+Trinh Tran Phuong Tuan:2500
+Doraemon:1200
+Shin:1100
+Chi Phien:1000
+sonicX:700
+Capybara:500
+Nguyen Trung Kien:400
+Nguyen Viet Dan Quynh:300
+Nguyen Tan Quoc:100
+Le Viet Anh:100
+I love FPT:100
+Soobin Hoang Son:100
+Thien Ly Oi:0
